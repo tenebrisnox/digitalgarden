@@ -4,6 +4,6 @@
 
 public:: true
 
-![image]<img src="http://garyhollingsbee.com/blog/wp-content/uploads/2021/05/dialogicteaching.png">
+![image]<img src="http://garyhollingsbee.com/blog/wp-content/uploads/2021/05/dialogicteaching.png" width=25%>
 
 [My Notes on Dialogic Teaching](http://garyhollingsbee.com/blog/dialogic-teaching/)
