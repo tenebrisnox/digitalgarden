@@ -5,7 +5,7 @@
 
 public:: true
 
-- ![smallowl](https://www.garyhollingsbee.com/digigarden/assets/smallOwl.png|width=300){:width=25%}
+- ![smallowl](https://www.garyhollingsbee.com/digigarden/assets/smallOwl.png | width=300){:width=25%}
 - Here are some things I'm working on:
 	- [[OPEN/Education/Dialogic Classroom|Dialogic Classroom]]
 	- [[OPEN/Education/Boys in English|Boys in English]]
