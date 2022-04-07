@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/open/i-m-currently-working-on/","tags":"gardenEntry"}
 ---
 
-
-
-
 ![logo](http://garyhollingsbee.com/TW/images/digitalgardenowlbannertransblack.png)
 
 ![Welcome](Welcome.md)
