@@ -3,9 +3,9 @@
 ---
 
 
-public:: true
 
-![](http://garyhollingsbee.com/TW/images/digitalgardenowlbannertransblack.png)
+
+![logo](http://garyhollingsbee.com/TW/images/digitalgardenowlbannertransblack.png)
 
 - ![smallowl](https://www.garyhollingsbee.com/digigarden/assets/smallOwl.png)
 - Here are some things I'm working on:
