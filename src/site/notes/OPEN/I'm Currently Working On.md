@@ -33,5 +33,11 @@
 	- [[How should Shakespeare be taught?]]
 	- [[OPEN/Education/Should we teach Grammar?|Should we teach Grammar?]]
 	- [[OPEN/Education/What is the best way to teach vocabulary?|What is the best way to teach vocabulary?]]
--
+
+
+``` dataview
+
+list from "OPEN/Education"
+
+```
 
