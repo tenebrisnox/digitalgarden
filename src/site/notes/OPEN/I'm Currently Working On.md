@@ -41,8 +41,8 @@ list from "OPEN/Education"
 
 ```
 
--   [Accelerated Reader](app://obsidian.md/OPEN/Education/Accelerated%20Reader.md)
--   [Boys Don't Try](app://obsidian.md/OPEN/Education/Boys%20Don't%20Try.md)
+-   [[OPEN/Education/Accelerated Reader|Accelerated Reader]]
+-   [[OPEN/Education/Boys Don't Try|Boys Don't Try]]
 -   [Boys in English](app://obsidian.md/OPEN/Education/Boys%20in%20English.md)
 -   [How should Shakespeare be taught_](app://obsidian.md/OPEN/Education/How%20should%20Shakespeare%20be%20taught_.md)
 -   [Newbolt and the construction of subject English](app://obsidian.md/OPEN/Education/Newbolt%20and%20the%20construction%20of%20subject%20English.md)
