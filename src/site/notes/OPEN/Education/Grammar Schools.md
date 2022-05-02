@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/grammar-schools/"}
+{"dg-publish":true,"permalink":"/open/education/grammar-schools/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #grammarSchools
 
