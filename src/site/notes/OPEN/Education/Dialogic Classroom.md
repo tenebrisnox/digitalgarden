@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/dialogic-classroom/"}
+{"dg-publish":true,"permalink":"/open/education/dialogic-classroom/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #oracy #dialogic
 
