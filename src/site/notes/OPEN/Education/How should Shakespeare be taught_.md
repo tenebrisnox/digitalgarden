@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/how-should-shakespeare-be-taught/"}
+{"dg-publish":true,"permalink":"/open/education/how-should-shakespeare-be-taught/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
