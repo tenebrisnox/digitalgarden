@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/why-do-we-teach-english/"}
+{"dg-publish":true,"permalink":"/open/education/why-do-we-teach-english/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 
 #englishTeaching 
