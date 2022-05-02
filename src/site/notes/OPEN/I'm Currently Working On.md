@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/i-m-currently-working-on/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/open/i-m-currently-working-on/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 ![logo](http://garyhollingsbee.com/TW/images/digitalgardenowlbannertransblack.png)
 
@@ -24,19 +25,38 @@
 
 
 - Here are some things I'm working on:
-	- [[OPEN/Education/Why is Challenge important?|Why is Challenge important?]]
-	- [[OPEN/Education/Dialogic Classroom|Dialogic Classroom]]
-	- [[OPEN/Education/The Newbolt Report (1921)|The Newbolt Report (1921)]]
-	- [[OPEN/Education/What is English teaching?|What is English teaching?]]
-	- [[OPEN/Education/Why do we teach English?|Why do we teach English?]]
-	- [[OPEN/Education/What is Learning?|What is Learning?]]
-	- [[How should Shakespeare be taught?]]
-	- [[OPEN/Education/Should we teach Grammar?|Should we teach Grammar?]]
-	- [[OPEN/Education/What is the best way to teach vocabulary?|What is the best way to teach vocabulary?]]
-	- [[OPEN/Education/Is UK's exam system best way of assessing?|Is UK's exam system best way of assessing?]]
-	- [[OPEN/Education/Does student wellbeing affect exam performance?|Does student wellbeing affect exam performance?]]
-	- [[OPEN/Education/Rhizomatic learning|Rhizomatic learning]]
-	- [[OPEN/Education/Drama Texts for Key Stage 3|Drama Texts for Key Stage 3]]
+
+- [[OPEN/Education/Accelerated Reader|Accelerated Reader]]
+- [[OPEN/Education/Are Knowledge Organisers useful?|Are Knowledge Organisers useful?]]
+- [[OPEN/Education/Boys Don't Try|Boys Don't Try]]
+- [[OPEN/Education/Boys in English|Boys in English]]
+- [[OPEN/Education/Dialogic Classroom|Dialogic Classroom]]
+- [[OPEN/Education/Disciplinary Literacy|Disciplinary Literacy]]
+- [[OPEN/Education/Does student wellbeing affect exam performance?|Does student wellbeing affect exam performance?]]
+- [[OPEN/Education/Drama Texts for Key Stage 3|Drama Texts for Key Stage 3]]
+- [[OPEN/Education/English Teachers in a Postwar Democracy|English Teachers in a Postwar Democracy]]
+- [[OPEN/Education/Grammar Schools|Grammar Schools]]
+- [[OPEN/Education/Hattie - Influences on Student Achievement|Hattie - Influences on Student Achievement]]
+- [[OPEN/Education/How should Shakespeare be taught_|How should Shakespeare be taught_]]
+- [[OPEN/Education/Is UK's exam system best way of assessing?|Is UK's exam system best way of assessing?]]
+- [[OPEN/Education/Jungian psychology and English|Jungian psychology and English]]
+- [[OPEN/Education/Newbolt and the construction of subject English|Newbolt and the construction of subject English]]
+- [[OPEN/Education/OFSTED Subject Reviews Summaries|OFSTED Subject Reviews Summaries]]
+- [[OPEN/Education/Planning an English (Literary) Curriculum|Planning an English (Literary) Curriculum]]
+- [[OPEN/Education/Reading Aloud in Class|Reading Aloud in Class]]
+- [[OPEN/Education/Rhizomatic learning|Rhizomatic learning]]
+- [[OPEN/Education/Should we teach Grammar?|Should we teach Grammar?]]
+- [[OPEN/Education/Teach to the Top|Teach to the Top]]
+- [[OPEN/Education/Teaching sounds in English|Teaching sounds in English]]
+- [[OPEN/Education/The History of English teaching|The History of English teaching]]
+- [[OPEN/Education/The Newbolt Report (1921)|The Newbolt Report (1921)]]
+- [[OPEN/Education/Vocabulary and Behaviour|Vocabulary and Behaviour]]
+- [[OPEN/Education/What is English teaching?|What is English teaching?]]
+- [[OPEN/Education/What is Learning?|What is Learning?]]
+- [[OPEN/Education/What is Mastery?|What is Mastery?]]
+- [[OPEN/Education/What is the best way to teach vocabulary?|What is the best way to teach vocabulary?]]
+- [[OPEN/Education/Why do we teach English?|Why do we teach English?]]
+- [[OPEN/Education/Why is Challenge important?|Why is Challenge important?]]
 
 
 
