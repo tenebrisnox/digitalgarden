@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/english-teachers-in-a-postwar-democracy/"}
+{"dg-publish":true,"permalink":"/open/education/english-teachers-in-a-postwar-democracy/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 **Emerging Choice in London Schools, 1945-1965
 by Peter Medway, John Hardcastle, Georgina Brewis and David Cook (2014)**
