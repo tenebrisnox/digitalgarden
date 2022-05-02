@@ -1,20 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/newbolt-and-the-construction-of-subject-english/"}
+{"dg-publish":true,"permalink":"/open/education/newbolt-and-the-construction-of-subject-english/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 - #article #englishTeaching
 - 
 - David Aldridge & Andrew Green (2019) ''Newbolt and the construction of subject English'', English in Education, 53:3, 195-198
 - Refers to: [[OPEN/Education/The Newbolt Report (1921)|The Newbolt Report (1921)]]
-- This is the editorial to a special issue of [[English in Education]] (2019, vol.53, No.3) devoted to the Newbolt Report.
+- This is the editorial to a special issue of [[English in Education|English in Education]] (2019, vol.53, No.3) devoted to the Newbolt Report.
   
   **The authors comment on the relevancy of the Newbolt Report 100 years later. Picking out issues such as the problems associated with a knowledge-based curriculum, the particular issue of English being both medium and object of learning, the threat of high-stakes assessment on the "instinct for humanism" that embodies the subject, Newbolt's call for a re-conception of national education, of literacy education bridging social divisions and the subject being a liberal and democratising force.**
 - The issue includes:
-	- [[The Newbolt Report, the problem of moral legitimacy and the turn to culture]] by Alka Sehgal-Cuthbert
-	- [[English - the torch of life: reflections on the Newbolt report from an ITE perspective]] by Rachel Roberts
-	- [[Resonant Continuities: The influence of the Newbolt Report on the formation of English Curriculum in New South Wales, Australia]] by Jackie Manuel
-	- [[The teaching of English in England through the ages: how have interpretations of the Newbolt Report changed over time]] by John Perry
-	- [[The role of English in the Conversation of Humankind: Humanism and creativity in Newbolt et al (1921) and the national curriculum (2014)]] by Lorna Smith
+	- [[The Newbolt Report, the problem of moral legitimacy and the turn to culture|The Newbolt Report, the problem of moral legitimacy and the turn to culture]] by Alka Sehgal-Cuthbert
+	- [[English - the torch of life: reflections on the Newbolt report from an ITE perspective|English - the torch of life: reflections on the Newbolt report from an ITE perspective]] by Rachel Roberts
+	- [[Resonant Continuities: The influence of the Newbolt Report on the formation of English Curriculum in New South Wales, Australia|Resonant Continuities: The influence of the Newbolt Report on the formation of English Curriculum in New South Wales, Australia]] by Jackie Manuel
+	- [[The teaching of English in England through the ages: how have interpretations of the Newbolt Report changed over time|The teaching of English in England through the ages: how have interpretations of the Newbolt Report changed over time]] by John Perry
+	- [[The role of English in the Conversation of Humankind: Humanism and creativity in Newbolt et al (1921) and the national curriculum (2014)|The role of English in the Conversation of Humankind: Humanism and creativity in Newbolt et al (1921) and the national curriculum (2014)]] by Lorna Smith
 -
 - Quotes:
   heading:: true
