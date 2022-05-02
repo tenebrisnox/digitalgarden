@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/what-is-learning/"}
+{"dg-publish":true,"permalink":"/open/education/what-is-learning/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #learning
 
