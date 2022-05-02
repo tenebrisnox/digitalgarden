@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/hattie-influences-on-student-achievement/"}
+{"dg-publish":true,"permalink":"/open/education/hattie-influences-on-student-achievement/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #hattie
 
