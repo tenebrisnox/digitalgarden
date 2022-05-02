@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/jungian-psychology-and-english/"}
+{"dg-publish":true,"permalink":"/open/education/jungian-psychology-and-english/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #jung #englishTeaching #psychology
 
