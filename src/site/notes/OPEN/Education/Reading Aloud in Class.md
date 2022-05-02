@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/reading-aloud-in-class/"}
+{"dg-publish":true,"permalink":"/open/education/reading-aloud-in-class/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #englishTeaching #reading
 
