@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/welcome/"}
+{"dg-publish":true,"permalink":"/open/welcome/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 
 - This is not [my blog](http://garyhollingsbee.com/blog). It's a free-form, work-in-progress where I collect incomplete ideas and disorganised thoughts. A contextual knowledge space full of evergreen things that grow as my learning does.
