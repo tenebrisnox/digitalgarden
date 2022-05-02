@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/does-student-wellbeing-affect-exam-performance/"}
+{"dg-publish":true,"permalink":"/open/education/does-student-wellbeing-affect-exam-performance/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #exams #wellbeing
 
