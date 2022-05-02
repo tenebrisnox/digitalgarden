@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/what-is-the-best-way-to-teach-vocabulary/"}
+{"dg-publish":true,"permalink":"/open/education/what-is-the-best-way-to-teach-vocabulary/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #englishTeaching #vocabulary
 
