@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/planning-an-english-literary-curriculum/"}
+{"dg-publish":true,"permalink":"/open/education/planning-an-english-literary-curriculum/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 #englishTeaching #literatureTeaching #curriculum
 
 
