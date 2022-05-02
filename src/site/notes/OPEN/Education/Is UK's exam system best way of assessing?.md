@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/is-uk-s-exam-system-best-way-of-assessing/"}
+{"dg-publish":true,"permalink":"/open/education/is-uk-s-exam-system-best-way-of-assessing/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 Article by George Monbiot: https://www.theguardian.com/commentisfree/2022/apr/27/england-exam-system-children-mental-health
 
