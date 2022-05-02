@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/what-is-mastery/"}
+{"dg-publish":true,"permalink":"/open/education/what-is-mastery/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 - Daisy Christodoulou, **What is Mastery? The Good, the Bad and the Ugly**:
 -
