@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/teach-to-the-top/"}
+{"dg-publish":true,"permalink":"/open/education/teach-to-the-top/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #teaching #teachToTheTop
 
