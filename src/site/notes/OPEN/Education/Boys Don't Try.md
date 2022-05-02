@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/boys-don-t-try/"}
+{"dg-publish":true,"permalink":"/open/education/boys-don-t-try/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 
 - Rethinking Masculinity in Schools
