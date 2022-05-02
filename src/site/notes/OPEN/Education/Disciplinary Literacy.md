@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/disciplinary-literacy/"}
+{"dg-publish":true,"permalink":"/open/education/disciplinary-literacy/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 #literacy #oracy #reading #writing #englishTeaching 
 
 https://educationendowmentfoundation.org.uk/news/eef-blog-what-do-we-mean-by-disciplinary-literacy
