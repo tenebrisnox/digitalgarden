@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/teaching-sounds-in-english/"}
+{"dg-publish":true,"permalink":"/open/education/teaching-sounds-in-english/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #englishTeaching
 
