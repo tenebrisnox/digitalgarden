@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/the-history-of-english-teaching/"}
+{"dg-publish":true,"permalink":"/open/education/the-history-of-english-teaching/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 Unordered (and incredibly partial; for follow-up):
 
