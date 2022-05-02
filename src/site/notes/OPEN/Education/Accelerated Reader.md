@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/accelerated-reader/"}
+{"dg-publish":true,"permalink":"/open/education/accelerated-reader/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/accelerated-reader
 
 https://educationendowmentfoundation.org.uk/news/eef-blog-accelerated-reader-what-does-the-research-tell-us
