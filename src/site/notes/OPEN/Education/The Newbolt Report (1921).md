@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/the-newbolt-report-1921/"}
+{"dg-publish":true,"permalink":"/open/education/the-newbolt-report-1921/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 - The Newbolt Report, The Report of the Departmental Committee Appointed by the President of the Board of Education to Inquire into the Position of English in the Educational System of England.
 - BACKGROUND
@@ -8,16 +9,16 @@
   collapsed:: true
 	- The Newbolt report followed:
 	  collapsed:: true
-		- [[H.A.L. Fisher]]'s [[Education Act 1918]]
-		- establishment of the first [[English Literature tripos at Cambridge]]
+		- [[H.A.L. Fisher|H.A.L. Fisher]]'s [[Education Act 1918|Education Act 1918]]
+		- establishment of the first [[English Literature tripos at Cambridge|English Literature tripos at Cambridge]]
 		- The spectre of the Russian Revolution haunts the report: it begins stressing the social divisions not being bridged by education. English is seen as a means of creating national unity and a bond between classes.
 		-
 - NOTES FROM READING
   heading:: true
 	-
 	- The inquiry was established (in 1919) to investigate the state of English (Language and Literature) taught in school and "advise how its study may best be promoted in schools and in Universities and other Institutions of Higher Education".
-	- [[H.A.L. Fisher]] was President of the Board of Education at the time.
-	- Among the members of the board: [[Sir Henry Newbolt]], [[Sir Arthur Quiller-Couch]] and [[George Sampson]].
+	- [[H.A.L. Fisher|H.A.L. Fisher]] was President of the Board of Education at the time.
+	- Among the members of the board: [[Sir Henry Newbolt|Sir Henry Newbolt]], [[Sir Arthur Quiller-Couch|Sir Arthur Quiller-Couch]] and [[George Sampson|George Sampson]].
 	-
 - CHAPTER ONE: General Introduction
   heading:: true
@@ -99,7 +100,7 @@
 	  >Fear of the danger to the State that an illiterate population might constitute became a powerful motive after the Reform Bill of 1832 Commons
 	- 1933 the House of Commons made its first grant towards the cost of education.
 	- Early philanthropic leaders of schools were inspired by only the most rudimentary educational ideas (read, write, cipher).
-	- [[Sir James Kay-Shuttleworth]] established the Battersea Training College in 1840.
+	- [[Sir James Kay-Shuttleworth|Sir James Kay-Shuttleworth]] established the Battersea Training College in 1840.
 	- Teacher training was:
 		-
 		  >all that it could offer was a supposed disciplining of the faculties by means of formal, especially linguistic, studies, tempered, in view of the vocational requirements of the new type of pupil, by certain concessions to the "useful knowledge" theory characteristic of the Academies.
