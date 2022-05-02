@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/rhizomatic-learning/"}
+{"dg-publish":true,"permalink":"/open/education/rhizomatic-learning/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 
 - learning organic, evolving circumstances
