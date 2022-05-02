@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/vocabulary-and-behaviour/"}
+{"dg-publish":true,"permalink":"/open/education/vocabulary-and-behaviour/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 https://www.tes.com/news/classroom-behaviour-vocabulary-link-teenager
 
