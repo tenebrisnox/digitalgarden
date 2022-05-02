@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/drama-texts-for-key-stage-3/"}
+{"dg-publish":true,"permalink":"/open/education/drama-texts-for-key-stage-3/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 Drama texts for younger students. One issue is that many are adaptations of novels.
 
