@@ -24,7 +24,11 @@
 </div></div>
 
 
-- Here are some things I'm working on:
+- Latest thing I'm working on:
+
+- [[OPEN/Education/Current National Curriculum in English|Current National Curriculum in English]]
+
+- Here are some other things I'm working on:
 
 - [[OPEN/Education/Accelerated Reader|Accelerated Reader]]
 - [[OPEN/Education/Are Knowledge Organisers useful?|Are Knowledge Organisers useful?]]
