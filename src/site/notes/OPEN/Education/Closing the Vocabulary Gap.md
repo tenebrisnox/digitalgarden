@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/closing-the-vocabulary-gap/"}
+{"dg-publish":true,"permalink":"/open/education/closing-the-vocabulary-gap/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #vocabulary
 
