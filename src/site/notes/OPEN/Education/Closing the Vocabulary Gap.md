@@ -3,7 +3,6 @@
 ---
 
 
-#vocabulary
 
 - Quigley argues that being brought up in a "word-poor" home with a restricted vocabulary can have profound implications on children's lives (employment, pay, wellbeing, health). Vocabulary instruction needs to be explicit and by explicitly teaching 300-500 words a year an annual growth of 3000 to 4000 words can be fostered. Challenges of new academic curriculum demands complex academic vocabulary. Supporting children to read more is vital but needs to be structured to teach reading - not just for pleasure.
   
