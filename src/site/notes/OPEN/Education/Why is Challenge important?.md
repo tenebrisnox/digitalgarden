@@ -3,7 +3,6 @@
 ---
 
 
-#challenge
 
 ### Learning the Right Way to Struggle (NYT article)
 
@@ -12,7 +11,7 @@ https://www.nytimes.com/2022/04/05/science/education-learning-challenge.html
 > manyeducators and learning scientists say that now, as students look to rebuild academic confidence, is a crucial moment for teachers and parents to step back when learning gets hard and to be explicit that the challenge offers rewards.
 
 - refers to the learning pit
-- References #dweck and #hattie (one of Hattie's 10 Mindframes for Visible Learing is striving for challenge and not just doing your best)
+- References dweck and hattie (one of Hattie's 10 Mindframes for Visible Learing is striving for challenge and not just doing your best)
 - James Nottingham (author of the Learning Pit): "identified three mental states that students occupy when learning something new: relatively comfortable, relatively uncomfortable and panicked."
 - Cites research that says worksheets mostly do not offer opportunities to demonstrate "grade-level mastery".
 - Not stretching students disadvantages marginalised.
