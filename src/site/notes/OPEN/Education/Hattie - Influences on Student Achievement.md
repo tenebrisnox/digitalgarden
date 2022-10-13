@@ -3,7 +3,6 @@
 ---
 
 
-#hattie
 
 ![Hattie](http://garyhollingsbee.com/digigarden/assets/Hattie_Influences_on_Student_Achievement.pdf)
 
