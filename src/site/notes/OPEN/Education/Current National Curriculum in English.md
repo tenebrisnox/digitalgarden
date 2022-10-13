@@ -3,7 +3,6 @@
 ---
 
 
-#NationalCurriculum #englishTeaching 
 
 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/244215/SECONDARY_national_curriculum_-_English2.pdf
 
