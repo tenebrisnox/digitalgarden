@@ -3,7 +3,6 @@
 ---
 
 
-#teaching #teachToTheTop
 
 Teach to the Top is the idea that teaching should ensure that the learning is genuinely challenging (and that all students are supported in reaching the top)
 
