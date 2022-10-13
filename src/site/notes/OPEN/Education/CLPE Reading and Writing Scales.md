@@ -7,4 +7,4 @@
 https://clpe.org.uk/teaching-resources/reading-and-writing-scales
 
 
-- [ ] #task Review this page 🛫 2022-06-16
+- [x] Review this page 🛫 2022-06-16
