@@ -3,7 +3,6 @@
 ---
 
 
-#englishTeaching #vocabulary
 
 Marzano (2005) outlines a six-step process that can help students learn critical subject specific vocabulary:
 
