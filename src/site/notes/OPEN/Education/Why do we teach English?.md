@@ -4,8 +4,6 @@
 
 
 
-#englishTeaching 
-#coxReport
 
 Why do we teach English?
 
