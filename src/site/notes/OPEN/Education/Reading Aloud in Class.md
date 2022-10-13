@@ -3,7 +3,6 @@
 ---
 
 
-#englishTeaching #reading
 
 
 Alex Quigley argues against "popcorn" or RRR (round-robin reading). https://www.theconfidentteacher.com/2022/02/who-should-read-aloud-in-class/
