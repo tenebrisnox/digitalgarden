@@ -3,7 +3,6 @@
 ---
 
 
-#grammarSchools
 
 Grammar schools in England: a new analysis of social segregation and academic outcomes by Steven Gorard (in British Journal of Sociology of Education) 2018 presents evidence that
 
