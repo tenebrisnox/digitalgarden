@@ -3,6 +3,5 @@
 ---
 
 
-#learning
 
 "learning is a change in long term memory"
