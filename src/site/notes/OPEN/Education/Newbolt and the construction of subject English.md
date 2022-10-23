@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/newbolt-and-the-construction-of-subject-english/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/education/newbolt-and-the-construction-of-subject-english/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
