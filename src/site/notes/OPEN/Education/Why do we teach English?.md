@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/why-do-we-teach-english/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/education/why-do-we-teach-english/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
