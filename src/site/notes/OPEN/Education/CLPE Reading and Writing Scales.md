@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/clpe-reading-and-writing-scales/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/education/clpe-reading-and-writing-scales/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
