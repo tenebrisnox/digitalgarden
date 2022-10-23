@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/accelerated-reader/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/education/accelerated-reader/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/accelerated-reader
