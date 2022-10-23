@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/i-m-currently-working-on/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/i-m-currently-working-on/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
@@ -8,11 +8,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
@@ -53,7 +49,7 @@
 - [[OPEN/Education/Jungian psychology and English|Jungian psychology and English]]
 - [[OPEN/Education/Newbolt and the construction of subject English|Newbolt and the construction of subject English]]
 - [[OPEN/Education/Making Every English Lesson Count|Making Every English Lesson Count]]
-- [[OPEN/Education/OFSTED Subject Reviews Summaries|OFSTED Subject Reviews Summaries]]
+- [[OFSTED Subject Reviews Summaries|OFSTED Subject Reviews Summaries]]
 - [[OPEN/Education/Planning an English (Literary) Curriculum|Planning an English (Literary) Curriculum]]
 - [[OPEN/Education/Reading Aloud in Class|Reading Aloud in Class]]
 - [[OPEN/Education/Rhizomatic learning|Rhizomatic learning]]
