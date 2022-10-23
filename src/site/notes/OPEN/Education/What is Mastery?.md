@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/what-is-mastery/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/education/what-is-mastery/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
