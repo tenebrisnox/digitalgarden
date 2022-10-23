@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/is-uk-s-exam-system-best-way-of-assessing/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/education/is-uk-s-exam-system-best-way-of-assessing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
