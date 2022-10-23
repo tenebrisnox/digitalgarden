@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/planning-an-english-literary-curriculum/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/education/planning-an-english-literary-curriculum/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
