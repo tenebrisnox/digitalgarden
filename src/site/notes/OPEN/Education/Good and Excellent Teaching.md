@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/good-and-excellent-teaching/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/open/education/good-and-excellent-teaching/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
