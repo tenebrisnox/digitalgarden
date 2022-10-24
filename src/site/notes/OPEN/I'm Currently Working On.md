@@ -22,8 +22,7 @@
 
 #### Latest thing I'm working on:
 
-- [[OPEN/Education/Good and Excellent Teaching|Good and Excellent Teaching]]
-- [[OPEN/Education/Current National Curriculum in English|Current National Curriculum in English]]
+- [[OPEN/Education/Progress 8|Progress 8]]
 - [[OPEN/Education/Oracy|Oracy]]
 
 #### What I'm revisiting:
@@ -49,7 +48,7 @@
 - [[OPEN/Education/Jungian psychology and English|Jungian psychology and English]]
 - [[OPEN/Education/Newbolt and the construction of subject English|Newbolt and the construction of subject English]]
 - [[OPEN/Education/Making Every English Lesson Count|Making Every English Lesson Count]]
-- [[OFSTED Subject Reviews Summaries|OFSTED Subject Reviews Summaries]]
+- [[OPEN/Education/OFSTED Subject Reviews Summaries|OFSTED Subject Reviews Summaries]]
 - [[OPEN/Education/Planning an English (Literary) Curriculum|Planning an English (Literary) Curriculum]]
 - [[OPEN/Education/Reading Aloud in Class|Reading Aloud in Class]]
 - [[OPEN/Education/Rhizomatic learning|Rhizomatic learning]]
