@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/improving-reading-df-e-2005/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/improving-reading-df-e-2005/"}
 ---
 
 
