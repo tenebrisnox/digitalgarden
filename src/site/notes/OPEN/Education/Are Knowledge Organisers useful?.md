@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/are-knowledge-organisers-useful/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/are-knowledge-organisers-useful/"}
 ---
 
 In a TES article (9th October 2021), Alex Quigley argues:
