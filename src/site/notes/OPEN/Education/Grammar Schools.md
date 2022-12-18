@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/grammar-schools/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/grammar-schools/"}
 ---
 
 
