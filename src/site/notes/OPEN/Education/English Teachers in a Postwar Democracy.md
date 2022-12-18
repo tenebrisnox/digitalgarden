@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/english-teachers-in-a-postwar-democracy/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/english-teachers-in-a-postwar-democracy/"}
 ---
 
 
