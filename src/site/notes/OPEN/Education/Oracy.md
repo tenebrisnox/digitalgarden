@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/oracy/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/oracy/"}
 ---
 
 
@@ -18,5 +18,5 @@ Vital for:
 
 ## Also:
 
-[[OPEN/Education/Dialogic Classroom|Dialogic Classroom]]
+[[OPEN/Education/Dialogic Classroom\|Dialogic Classroom]]
 
