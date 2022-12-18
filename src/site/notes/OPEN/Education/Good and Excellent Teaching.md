@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/good-and-excellent-teaching/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/good-and-excellent-teaching/"}
 ---
 
 
@@ -15,4 +15,4 @@ Hattie:
 
 ### Questions?
 
-Is "excellence" in teaching therefore one of decisive activating influence (inspiring and activating/engaging students) and a judicious choice of actions (learning tasks and interactions) that enable high-quality impacts (in student progress). Is [[Teaching to the Top|Teaching to the Top]] an aspect of this?
+Is "excellence" in teaching therefore one of decisive activating influence (inspiring and activating/engaging students) and a judicious choice of actions (learning tasks and interactions) that enable high-quality impacts (in student progress). Is [[Teaching to the Top\|Teaching to the Top]] an aspect of this?
