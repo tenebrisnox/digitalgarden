@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/teach-to-the-top/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/teach-to-the-top/"}
 ---
 
 
