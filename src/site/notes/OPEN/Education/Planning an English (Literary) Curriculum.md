@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/planning-an-english-literary-curriculum/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/planning-an-english-literary-curriculum/"}
 ---
 
 
@@ -23,5 +23,5 @@ Looking at texts through different points of view (not just self): eg. eco, post
 Encouraging children to ask questions rather than (slavishly) answer questions. Building this habit early in school.
 
 ### Planning Questions 
-Megan Mansworth in [[OPEN/Education/Teach to the Top|Teach to the Top]] suggests that examples of potential deep or high-level questions should be written into the curriculum plan.
+Megan Mansworth in [[OPEN/Education/Teach to the Top\|Teach to the Top]] suggests that examples of potential deep or high-level questions should be written into the curriculum plan.
 
