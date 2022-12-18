@@ -20,7 +20,7 @@
 </div></div>
 
 
-#### Latest thing I'm working on:
+#### Latest thing I'm thinking about:
 
 - [[OPEN/Education/Progress 8\|Progress 8]]
 - [[OPEN/Education/Oracy\|Oracy]]
