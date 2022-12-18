@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/what-is-english-teaching/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/what-is-english-teaching/"}
 ---
 
 
 - [x] Review this page by (@2022-08-23)
 	 [completion:: 2022-09-03]
-- [[OPEN/Education/What is English teaching?#Aspects of English|Aspects of English]]
-- [[OPEN/Education/What is English teaching?#Additionally|Additionally]]
+- [[OPEN/Education/What is English teaching?#Aspects of English\|Aspects of English]]
+- [[OPEN/Education/What is English teaching?#Additionally\|Additionally]]
 
 
-Also see [[What is the history of English teaching?|What is the history of English teaching?]]
+Also see [[What is the history of English teaching?\|What is the history of English teaching?]]
 
 Harold Rosen:
 
