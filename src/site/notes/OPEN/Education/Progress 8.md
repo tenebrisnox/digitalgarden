@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open/education/progress-8/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/open/education/progress-8/"}
 ---
 
 
