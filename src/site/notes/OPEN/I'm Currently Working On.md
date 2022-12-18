@@ -30,7 +30,7 @@
 - [[OPEN/Education/Making Every English Lesson Count\|Making Every English Lesson Count]]
 - [[OPEN/Education/Improving Reading - DfE (2005)\|Improving Reading - DfE (2005)]]
 
-#### Here are some other things I'm working on:
+#### Here are some other things I'm thinking about:
 
 - [[OPEN/Education/Accelerated Reader\|Accelerated Reader]]
 - [[OPEN/Education/Are Knowledge Organisers useful?\|Are Knowledge Organisers useful?]]
