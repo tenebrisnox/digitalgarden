@@ -20,7 +20,7 @@
 </div></div>
 
 
-*I've not maintained this digital garden for about six months (the focus of my thinking hasn't been on education).*
+*I've not maintained this digital garden for about six months (the focus of my thinking hasn't been on education). Also working on deployment issues.*
  
 #### Latest thing I'm thinking about:
 
